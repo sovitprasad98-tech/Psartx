@@ -1,0 +1,12 @@
+{
+  "name": "psartx-admin-bot",
+  "version": "1.0.0",
+  "description": "PsartX Admin Telegram Bot",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
+
